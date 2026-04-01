@@ -1,7 +1,7 @@
 # Market-data-analysis
  📊 Marketing Campaign Analysis
 ## 🎤 Presentation
-👉 [View Full Presentation](presentation/marketing_analysis.pdf)
+👉 [View Full Presentation](market_data_presentation.pdf)
 📌 Project Overview
 
 This project analyses declining sales performance and evaluates the effectiveness of marketing campaigns using customer data. The goal is to identify key drivers behind reduced revenue and provide actionable insights to improve engagement, targeting and overall business performance.
